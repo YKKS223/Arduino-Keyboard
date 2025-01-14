@@ -1,6 +1,7 @@
 # Arduino-Keyboard
 前提条件：Arduinoと回路がある。
 サンプルでブレッドボードの配線イメージがあるので参考にどうぞ：
+https://github.com/YKKS223/Arduino-Keyboard/blob/main/2025-01-14%204.04.35.png
 
 使い方：
   必要なもの：
